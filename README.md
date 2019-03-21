@@ -5,29 +5,29 @@
 
 # LINUX
 
-	* App Specific Notes
-      * [vim](vim)
-      * other-toremove
-	* Config files
-	* Distro Specific Notes
-	* File Management (File manager, Compression, Find)
-	* I/O (Sound, Video, Keyboard)
-	* Miscellaneous
-	* Package Managers
-	* Security (GPG, Encryption)
-	* System Administration
-	* WM
+* App Specific Notes
+    * [vim](vim)
+    * other-toremove
+* Config files
+* Distro Specific Notes
+* File Management (File manager, Compression, Find)
+* I/O (Sound, Video, Keyboard)
+* Miscellaneous
+* Package Managers
+* Security (GPG, Encryption)
+* System Administration
+* WM
 
 # PROGRAMMING
 
-  * [Bash](Bash)
-  * [Python](Python)
+* [Bash](Bash)
+* [Python](Python)
 
 # NETWORKING
 
 # SECURITY / HACKING
 
-  * [nmap](nmap)
+* [nmap](nmap)
 
 # BSD
 
@@ -35,21 +35,21 @@
 
 # VIRTUALIZATION
 
-	* KVM/QEMU
-	* Virtualbox
-	* vmware
+ KVM/QEMU
+ Virtualbox
+ vmware
 
 # WINDOWS
 
-	* Powershell
+ Powershell
 
 # SPECIFIC HARDWARE
 
-	* Dell XPS13
+ Dell XPS13
 
 # MISC NOTES
 
-  * Apps for clean install
-	* Certificates (HTTPS)
-	* Regular Expressions
+* Apps for clean install
+* Certificates (HTTPS)
+* Regular Expressions
 
