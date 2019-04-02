@@ -40,7 +40,7 @@ With if statements
     fi
 
 
-## MISC -------------------------------|
+## |----------------------- MISC -------------------------------|
 
 To use special characters in a command, use the ''
 
