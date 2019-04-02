@@ -23,13 +23,13 @@ sh - shell (old)
 
 ## BASIC STRUCTURE
 
-#!/bin/bash
+		#!/bin/bash
 
-    while:
-        do
-            date
-            sleep 5
-        done
+			while:
+				do
+					date
+					sleep 5
+				done
 
 With if statements
 
