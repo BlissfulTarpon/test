@@ -4,7 +4,8 @@
 =====================
 
 # [TO SORT](TO SORT)
-ceci est un `test` dans la pjrase
+ceci est un `test` dans la phrase instead of italic
+only  one word for links
 
 # LINUX
 
@@ -66,7 +67,7 @@ ceci est un `test` dans la pjrase
 
 # MISC NOTES
 
-* [Apps list](Apps list)
+* [Appslist](Apps list)
 * Certificates (HTTPS)
 * [Color](Color)
 * [git](git)
@@ -76,5 +77,5 @@ ceci est un `test` dans la pjrase
 
 # ACRONYMS
 
-OSINT - Open source intel
-SIEM - Security information & event monitoring
+- OSINT - Open source intel
+- SIEM - Security information & event monitoring
