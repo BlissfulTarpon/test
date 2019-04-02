@@ -10,7 +10,7 @@
     * [ranger](ranger)
     * [vim](vim)
 * [Linux](Linux)
-* [Package-Managers](Package-Managers)
+* [Package_Managers](Package_Managers)
 * [Partitions](Partitions)
 * [WM](WM)
 
