@@ -1,5 +1,5 @@
 
-=====================
+
   TABLE OF CONTENT
 =====================
 
@@ -39,8 +39,8 @@
 
 # MISC NOTES
 
-* [Common Applications](apps)
 * [BSD](BSD)
+* [Common Applications](apps)
 * [Color](Color)
 * [git](git)
 * [Miscellaneous](Miscellaneous)
