@@ -2,7 +2,7 @@
 
 The Bourne Again Shell. Extension of the previous SH shell.
 
-## INTRO
+## INTRO ##
 
 sh - shell (old)
 
@@ -22,6 +22,7 @@ sh - shell (old)
 |             |                               |
 
 ## BASIC STRUCTURE
+---
 
 		#!/bin/bash
 
@@ -40,7 +41,7 @@ With if statements
     fi
 
 
-## MISC
+## MISC -------------------------------|
 
 To use special characters in a command, use the ''
 
