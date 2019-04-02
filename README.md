@@ -2,14 +2,14 @@
 
 The Bourne Again Shell. Extension of the previous SH shell.
 
-## INTRO ##############################
+### INTRO ##############################
 
 sh - shell (old)
 
 .sh = Shell script file executable.
 
 
-### REDIRECTION
+## REDIRECTION
 
 | OPERATOR    | DESC                          |
 |-------------|-------------------------------|
@@ -40,7 +40,7 @@ With if statements
     fi
 
 
-## |----------------------- MISC -------------------------------|
+## MISC
 
 To use special characters in a command, use the ''
 
