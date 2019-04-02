@@ -3,20 +3,24 @@
   TABLE OF CONTENT
 =====================
 
+# [TO SORT](TO SORT)
+ceci est un `test` dans la pjrase
+
 # LINUX
 
 * App Specific Notes
+    * [borg](borg) (backup)
+    * [ranger](ranger)
     * [vim](vim)
-    * other-toremove
-* Config files
-* Distro Specific Notes
-* File Management (File manager, Compression, Find)
-* I/O (Sound, Video, Keyboard)
-* Miscellaneous
-* Package Managers
-* Security (GPG, Encryption)
-* System Administration
-* WM
+* [Distro Specific Notes](Distro Specific Notes)
+* [File Management](File Management) (File manager, Compression, Find)
+* [IO](IO) (Sound, Video, Keyboard)
+* [Misc Linux](Misc Linux)
+* [Networking](Networking) (linux-specific)
+* [Package Managers](Package Managers)
+* [Partitions](Partitions)
+* [SysAdmin](SysAdmin)
+* [WM](WM)
 
 # PROGRAMMING
 
@@ -25,31 +29,52 @@
 
 # NETWORKING
 
-# SECURITY / HACKING
+* [HTTP](HTTP)
+* [SSH](SSH)
+* [TCP IP](TCP-IP)
 
+# SECURITY / CYBERSECURITY / HACKING / PENTESTING
+
+* [Defense](Defense)
+* [Encryption](Encryption) (GPG, File System, Standards)
+* [Hacking](Hacking) (Terminology)
+* [Malware](Malware) (Terminology)
 * [nmap](nmap)
+* [Offense](Offense)
+* [Reconnaissance](Reconnaissance)
 
-# BSD
+# INFORMATION SECURITY
 
-# GIT
+* [Policies](Policies)
+
+* [BSD](BSD)
 
 # VIRTUALIZATION
 
- KVM/QEMU
- Virtualbox
- vmware
+* [KVM](KVM)
+* Virtualbox
+* vmware
 
 # WINDOWS
 
- Powershell
+* [Misc Win](Misc Win)
+* [Powershell](Powershell)
 
 # SPECIFIC HARDWARE
 
- Dell XPS13
+* [Dell XPS13](Dell XPS13)
 
 # MISC NOTES
 
-* Apps for clean install
+* [Apps list](Apps list)
 * Certificates (HTTPS)
-* Regular Expressions
+* [Color](Color)
+* [git](git)
+* [Miscellaneous](Miscellaneous)
+* [Mobile Devices](Mobile Devices)
+* [Regular Expressions](Regular Expressions)
 
+# ACRONYMS
+
+OSINT - Open source intel
+SIEM - Security information & event monitoring
