@@ -9,7 +9,7 @@ sh - shell (old)
 .sh = Shell script file executable.
 
 
-## REDIRECTION
+### REDIRECTION
 
 | OPERATOR    | DESC                          |
 |-------------|-------------------------------|
@@ -46,7 +46,7 @@ To use special characters in a command, use the ''
 
     mkdir '#trending'
 
-Backslash (\) are used to escape next character.
+Backslash `(\)` are used to escape next character.
 
     mkdir \*special\! # would create the folder -star-special!
 
@@ -82,6 +82,7 @@ These are used to store values. Erased upon exiting or when opening a new shell.
 Some built-in variables
 
 HISTCONTROL=ignoredups # ignores duplicates in history
+
 HISTCONTROL=ignoredups:ignorespace # use : to separate if you want to pass more than one value
 
 ## FUNCTIONS
