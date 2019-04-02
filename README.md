@@ -67,7 +67,7 @@ only  one word for links
 
 # MISC NOTES
 
-* [Appslist](Apps list)
+* [Apps list](Apps list)
 * Certificates (HTTPS)
 * [Color](Color)
 * [git](git)
@@ -78,4 +78,5 @@ only  one word for links
 # ACRONYMS
 
 - OSINT - Open source intel
-- SIEM - Security information & event monitoring
+`SIEM` - Security information & event monitoring
+* OSINT - Open source intel
