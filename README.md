@@ -5,6 +5,7 @@ The Bourne Again Shell. Extension of the previous SH shell.
 ## INTRO
 
 sh - shell (old)
+
 .sh = Shell script file executable.
 
 
